@@ -5,6 +5,7 @@ Conversion Controller (API Controller) can be located on location '~/ConversionA
 Home Controller serve as Client.
 Home controller will come up wuth 2 input fields.
 Validations are included and will not let button enable untill all conditions are met.
+All the JS code can be located on location '~/CoversionAPI/Scripts/Convert.jsx'
 
 Technology Stack Used:
 1. Web API 2
